@@ -11,8 +11,10 @@ I build **practical AI systems**—from data collection and preprocessing to mod
 ## Tools I use
 **AI / Data:** Python, NumPy, Pandas, Matplotlib, PyTorch (learning & using), Jupyter  
 **Robotics / Sensors:** Arduino Nano 33 BLE Sense, BLE data streaming, signal filtering & peak/step detection  
-**Software:** TypeScript, Angular (NgRx), React, .NET, Git/GitHub  
-**Databases & Tools:** PostgreSQL, MongoDB, InfluxDB, CI basics (GitHub Actions/Jenkins exposure)
+**Software:** TypeScript, React, Git/GitHub
+**Web & Creative:** HTML/CSS, PHP, web hosting, 
+**Adobe Creative Suite** (UI/UX + visual design)
+**Databases & Tools:** PostgreSQL, MongoDB, InfluxDB
 
 ## How to reach me
 - LinkedIn: https://www.linkedin.com/in/jetson-joseph-ab4618165/
