@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I’m Jetson Joseph 👋
+
+**M.Sc. Artificial Intelligence for Industrial Applications** @ OTH Amberg-Weiden (Germany)  
+I build **practical AI systems**—from data collection and preprocessing to models, evaluation, and usable apps.
+
+## What I’m currently working on
+- **Indoor localization** using **IMU + BLE/RSSI** fusion (step detection + particle filter + floor-plan constraints)
+- **Robotics in Webots**: exploration, mapping, and navigation (state estimation + planning)
+- **Applied ML projects** in **NLP / Computer Vision / Reinforcement Learning**
+
+## Tools I use
+**AI / Data:** Python, NumPy, Pandas, Matplotlib, PyTorch (learning & using), Jupyter  
+**Robotics / Sensors:** Arduino Nano 33 BLE Sense, BLE data streaming, signal filtering & peak/step detection  
+**Software:** TypeScript, Angular (NgRx), React, .NET, Git/GitHub  
+**Databases & Tools:** PostgreSQL, MongoDB, InfluxDB, CI basics (GitHub Actions/Jenkins exposure)
+
+## How to reach me
+- LinkedIn: https://www.linkedin.com/in/jetson-joseph-ab4618165/
+
+---
+⭐ If you’re hiring for **Applied AI / ML Engineer / Working Student** roles, I’d love to connect.
 
 <!--
 **Jetson98/Jetson98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
