@@ -1,27 +1,27 @@
 # Hi, I’m Jetson Joseph 👋
 
 **M.Sc. Artificial Intelligence for Industrial Applications** @ OTH Amberg-Weiden (Germany)  
-I build **practical AI systems**—from data collection and preprocessing to models, evaluation, and usable apps.
+I build **practical AI systems**—from data collection and preprocessing to models, evaluation, and real applications.
 
-## What I’m currently working on
-- **Indoor localization** using **IMU + BLE/RSSI** fusion (step detection + particle filter + floor-plan constraints)
-- **Robotics in Webots**: exploration, mapping, and navigation (state estimation + planning)
-- **Applied ML projects** in **NLP / Computer Vision / Reinforcement Learning**
+### 🚀 What I’m working on right now
+I enjoy building across **ML/DL, NLP, RL, autonomous robotics**, and **sensor localization**.  
+Currently exploring **GenAI** projects
 
 ## Tools I use
 **AI / Data:** Python, NumPy, Pandas, Matplotlib, PyTorch (learning & using), Jupyter  
-**Robotics / Sensors:** Arduino Nano 33 BLE Sense, BLE data streaming, signal filtering & peak/step detection  
-**Software:** TypeScript, React, Git/GitHub
-**Web & Creative:** HTML/CSS, PHP, web hosting, 
-**Adobe Creative Suite** (UI/UX + visual design)
+**Robotics / Sensors:** Arduino Nano 33 BLE Sense, BLE data streaming, signal filtering & peak/step detection, Turtle bot 4  
+**Software:** TypeScript, React, Git/GitHub  
+**Web & Creative:** HTML/CSS, PHP, web hosting  
+**Adobe Creative Suite** (UI/UX + visual design)  
 **Databases & Tools:** PostgreSQL, MongoDB, InfluxDB
 
-## How to reach me
-- LinkedIn: https://www.linkedin.com/in/jetson-joseph-ab4618165/
+### 📌 Projects
+Check out my **pinned repos** below — they reflect what I’m most proud of and currently improving.
 
 ---
 ⭐ If you’re hiring for **Applied AI / ML Engineer / Working Student** roles, I’d love to connect.
 
+Thanks for stopping by 🙂
 <!--
 **Jetson98/Jetson98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
